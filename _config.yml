@@ -1,0 +1,17 @@
+title: The Church of Overexplaining
+tagline: A living canon for systems thinkers, architects, and people who explain things until they make sense
+description: >
+  Where reality is authoritative, coherence is provisional, and St. Good Idea Fairy cannot be trusted unsupervised.
+
+url: https://deedeerich.github.io/church_of_overexplaining
+theme: jekyll-theme-minimal
+
+# Navigation
+nav_order: 1
+
+# Markdown processing
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
