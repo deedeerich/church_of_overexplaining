@@ -27,6 +27,7 @@ Coffee is encouraged. ☕
 - [**The Book of Gratitude**](docs/book-of-gratitude.md) — For the quiet stewards
 - [**The Novitiate**](docs/novitiate.md) — Catechism for newcomers
 - [**Living Doctrine**](docs/living-doctrine.md) — Why this is intentionally incomplete
+- [**Iconography**](docs/illustrations.md) — The saints, drawn by hand (placeholders for now)
 - [**Liturgical Calendar**](docs/holidays.md) — Holy days
 - [**Heresies**](docs/heresies.md) — What we reject
 - [**Proverbs**](docs/proverbs.md) — Pithy truths

@@ -1,0 +1,15 @@
+<!-- PLACEHOLDER doodle — to be replaced by Dee Dee's hand-drawn canonical art. Not canon. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140" role="img" aria-label="The Holy Whiteboard (placeholder)">
+  <g fill="none" stroke="#333" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- board -->
+    <rect x="24" y="26" width="92" height="66" rx="3"/>
+    <!-- legs -->
+    <path d="M40 92 L34 120 M100 92 L106 120"/>
+    <!-- boxes + arrow scribble -->
+    <rect x="36" y="44" width="20" height="14"/>
+    <rect x="82" y="44" width="20" height="14"/>
+    <path d="M56 51 H82"/>
+    <path d="M76 47 L82 51 L76 55"/>
+    <path d="M46 66 H96"/>
+  </g>
+</svg>

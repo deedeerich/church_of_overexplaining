@@ -1,0 +1,15 @@
+<!-- PLACEHOLDER doodle — to be replaced by Dee Dee's hand-drawn canonical art. Not canon. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140" role="img" aria-label="The Sacred Coffee Mug (placeholder)">
+  <g fill="none" stroke="#333" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- mug -->
+    <path d="M42 60 H92 V98 a10 10 0 0 1 -10 10 H52 a10 10 0 0 1 -10 -10 Z"/>
+    <!-- handle -->
+    <path d="M92 68 a14 14 0 0 1 0 28"/>
+    <!-- steam -->
+    <path d="M56 48 c6 -6 -6 -12 0 -20"/>
+    <path d="M70 48 c6 -6 -6 -12 0 -20"/>
+    <path d="M84 48 c6 -6 -6 -12 0 -20"/>
+    <!-- saucer -->
+    <path d="M38 114 H98"/>
+  </g>
+</svg>

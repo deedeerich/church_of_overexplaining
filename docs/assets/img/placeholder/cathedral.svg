@@ -1,0 +1,22 @@
+<!-- PLACEHOLDER doodle — to be replaced by Dee Dee's hand-drawn canonical art. Not canon. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140" role="img" aria-label="The Cathedral (placeholder)">
+  <g fill="none" stroke="#333" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- body -->
+    <path d="M40 120 V64 L70 40 L100 64 V120 Z"/>
+    <!-- roofline -->
+    <path d="M34 68 L70 38 L106 68"/>
+    <!-- tower -->
+    <path d="M64 40 V22 M76 40 V22 M64 22 H76"/>
+    <!-- cross -->
+    <path d="M70 22 V12 M65 16 H75"/>
+    <!-- rose window -->
+    <circle cx="70" cy="70" r="7"/>
+    <!-- arched door -->
+    <path d="M60 120 V96 a10 10 0 0 1 20 0 V120"/>
+    <!-- side windows -->
+    <path d="M48 118 V100 a4 4 0 0 1 8 0 V118"/>
+    <path d="M84 118 V100 a4 4 0 0 1 8 0 V118"/>
+    <!-- ground -->
+    <path d="M28 120 H112"/>
+  </g>
+</svg>

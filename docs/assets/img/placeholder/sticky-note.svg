@@ -1,0 +1,12 @@
+<!-- PLACEHOLDER doodle — to be replaced by Dee Dee's hand-drawn canonical art. Not canon. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140" role="img" aria-label="The Blessed Sticky Note (placeholder)">
+  <g fill="none" stroke="#333" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- note with a curled corner -->
+    <path d="M34 34 H106 V92 L88 106 H34 Z"/>
+    <path d="M106 92 L88 92 L88 106"/>
+    <!-- writing -->
+    <path d="M46 52 H94"/>
+    <path d="M46 64 H94"/>
+    <path d="M46 76 H78"/>
+  </g>
+</svg>

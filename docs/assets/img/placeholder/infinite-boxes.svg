@@ -1,0 +1,22 @@
+<!-- PLACEHOLDER doodle — to be replaced by Dee Dee's hand-drawn canonical art. Not canon. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140" role="img" aria-label="The Diagram of Infinite Boxes (placeholder)">
+  <g fill="none" stroke="#333" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- too many connected boxes -->
+    <rect x="20" y="24" width="30" height="20"/>
+    <rect x="90" y="24" width="30" height="20"/>
+    <rect x="20" y="96" width="30" height="20"/>
+    <rect x="90" y="96" width="30" height="20"/>
+    <rect x="55" y="60" width="30" height="20"/>
+    <!-- everything connected to everything -->
+    <path d="M50 34 H90"/>
+    <path d="M35 44 V96"/>
+    <path d="M105 44 V96"/>
+    <path d="M50 106 H90"/>
+    <path d="M50 34 L55 68"/>
+    <path d="M90 34 L85 68"/>
+    <path d="M55 72 L50 100"/>
+    <path d="M85 72 L90 100"/>
+    <path d="M50 34 L90 106"/>
+    <path d="M90 34 L50 106"/>
+  </g>
+</svg>
