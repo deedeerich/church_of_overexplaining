@@ -5,42 +5,89 @@ title: Living Doctrine
 
 # Living Doctrine
 
-> **This project is intentionally incomplete.**
+This project is intentionally incomplete.
 
-That is not an apology. It is the design.
+---
 
-A finished doctrine is a dead one. This canon is meant to keep changing, and it changes through a
-specific and deliberately narrow set of forces:
+## The Incompleteness Is the Point
 
-- **Reality** — the authoritative editor. When the world disagrees with the doctrine, the doctrine yields.
-- **Participation** — doctrine earns its place by being *used*, not by being admired.
-- **Stewardship** — someone has to tend it, prune it, and keep it coherent across versions.
-- **Humor** — the delivery mechanism. If it is not at least a little funny, it will not be remembered,
-  and a doctrine no one remembers governs nothing.
+A constitution that claims to be finished is lying.
 
-Notably absent from that list: **popularity.** The Church does not evolve by vote count. Doctrine
-changes because *someone observed Reality, Reality won, and the doctrine adjusted* — not because an
-idea was well-liked. This is what keeps a living canon from becoming a comment section.
+A culture that claims to be perfected is not learning.
 
-## How doctrine actually changes here
+A philosophy that claims to have all the answers is not listening to Reality.
 
-```
-Someone observes Reality.
-        ↓
-Reality wins (it always does).
-        ↓
-The doctrine is revised — and the revision is recorded as a Council.
-```
+Skating OS, the Church of Overexplaining, and any thinking system worth its salt must evolve.
 
-Revisions are not "releases." They are **Councils** — moments where the canon changed because Reality
-taught us something new. The [Book of Revisions](changelog.md) is therefore not a version log; it is a
-short history book.
+---
 
-## What this means for you
+## How Doctrine Evolves
 
-- Nothing here is above revision except the Supreme Deity (Reality) and the core principle
-  (integration over fragmentation). Everything else is provisional and negotiable with evidence.
-- If you find something wrong, you have not found a bug. You have found a **Council waiting to happen.**
-- The gaps are not incomplete work. They are **space left for Reality to fill.**
+Not through committee. Not through voting. Through:
 
-*Coherence is provisional. That includes this page.*
+1. **Reality teaching something new** — The edge tells the truth. Reality always wins.
+2. **Participation revealing gaps** — Someone tries to use the system and hits a wall that shouldn't exist.
+3. **Stewardship identifying debt** — We realize we're maintaining something that no longer serves its purpose.
+4. **Humor surviving contact** — An idea that was funny and also true survives. An idea that was only funny vanishes.
+
+---
+
+## What's Documented
+
+- ✅ Core principles (these are stable)
+- ✅ Why we reject certain approaches (these are stable)
+- ✅ The thinking stack (this structure is stable)
+- ✅ Our culture (growing and learning)
+
+---
+
+## What's Still Forming
+
+- 🔄 The Church Apocrypha (stories in progress)
+- 🔄 Canonical Illustrations (we need doodles, not AI art)
+- 🔄 Book of Councils (the archive of when doctrine changed)
+- 🔄 The Book of Schisms (important disagreements we're having)
+- 🔄 Expanded Parables (stories that encode lessons)
+
+---
+
+## What We're Looking For
+
+Submit doctrine when:
+
+1. **It's funny because it's true** — Not random humor. Observed truth.
+2. **It survives across three independent contexts** — Not a one-off insight.
+3. **Reality backs it up** — You've tested it, you've seen it work.
+4. **The Church is missing it** — We don't have language for this yet.
+
+---
+
+## The Invitation
+
+You're not visiting a monument.
+
+You're visiting a living, evolving thing.
+
+If you see a place where doctrine should exist but doesn't, say so.
+
+If you see a place where doctrine is wrong, bring evidence.
+
+If you see a place where the Church could learn something new, teach us.
+
+---
+
+## How to Contribute
+
+See [CONTRIBUTING.md](../CONTRIBUTING.md)
+
+Or just open an issue with your observation.
+
+Reality decides. We evolve.
+
+---
+
+*The incompleteness is not a bug.*
+
+*It's proof we're still learning.*
+
+*And learning is the whole point.* 🤣

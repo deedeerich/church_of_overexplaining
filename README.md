@@ -2,54 +2,59 @@
 
 A living, unserious-serious canon for people who explain systems until the mechanism becomes understandable.
 
-## Welcome
+Then distill it into one useful cue.
 
-You are entering a place where:
+## The Question
 
-- **Reality is authoritative.** Models must answer to what actually happens, not the other way around.
-- **Coherence is provisional.** Everything you think you know might change when you encounter new evidence.
-- **Participation is the objective.** Understanding comes through doing, not just thinking.
-- **Adaptive Coherence is the mechanism.** Systems remain themselves while changing.
-- **Survivability beats brilliance.** Long-term viability is preferable to short-term elegance.
-- **Integration vs fragmentation matters more than success vs failure.** What holds the system together is more important than what individual parts achieve.
+Have you mistaken the map for the territory?
 
-Please leave unsupported certainty at the door.
-
-Coffee is encouraged. ☕
-
-## Quick Links
-
-- [**Enter the Cathedral**](docs/index.md) — Homepage (with Today's Reading)
-- [**Core Doctrine**](docs/doctrine.md) — Foundational theology + *why we overexplain*
-- [**Saints & Archangels**](docs/saints.md) — Canonized principles
-- [**Parables**](docs/parables.md) — Short stories that carry the philosophy
-- [**The Book of Bugs**](docs/book-of-bugs.md) — Not software bugs. Life bugs.
-- [**The Book of Gratitude**](docs/book-of-gratitude.md) — For the quiet stewards
-- [**The Novitiate**](docs/novitiate.md) — Catechism for newcomers
-- [**Living Doctrine**](docs/living-doctrine.md) — Why this is intentionally incomplete
-- [**Iconography**](docs/illustrations.md) — The saints, drawn by hand (placeholders for now)
-- [**Liturgical Calendar**](docs/holidays.md) — Holy days
-- [**Heresies**](docs/heresies.md) — What we reject
-- [**Proverbs**](docs/proverbs.md) — Pithy truths
-- [**Book of Revisions**](docs/changelog.md) — Version history (the Councils)
-- [**Submit New Doctrine**](CONTRIBUTING.md) — Join the canon
-
-## Version
-
-**Liturgical Calendar v0.2** (First Council of Sticky Notes)
-
-v0.1 founded the canon. v0.2 answers the question underneath it — *why* we
-overexplain — and adds the Parables, the Book of Bugs, the Book of Gratitude,
-the Novitiate, and Living Doctrine. Reality continues to amend the rest.
-
-## License
-
-[**CC BY-NC-SA 4.0**](LICENSE) — Attribution · NonCommercial · ShareAlike.
-Share it, remix it, build on it. Just credit the source, keep it non-commercial,
-and pass the same freedoms along. (The license was, fittingly, forgotten in v0.1
-and canonized in the First Council of Sticky Notes. Reality is authoritative;
-paperwork is eventually.)
+**Yes** →  You need us.  
+**No** →  You will eventually. Come anyway.
 
 ---
 
-*Build the smallest coherent thing. Everything else follows from that.*
+## Quick Links
+
+- [**Enter the Cathedral**](docs/index.md) — The homepage
+- [**The Novitiate**](docs/novitiate.md) — Catechism for newcomers
+- [**Core Doctrine**](docs/doctrine.md) — What we believe
+- [**Saints & Archangels**](docs/saints.md) — Canonized principles
+- [**Heresies**](docs/heresies.md) — What we reject
+- [**Parables**](docs/parables.md) — Stories that encode wisdom
+- [**Liturgical Calendar**](docs/holidays.md) — Sacred observances
+- [**Book of Bugs**](docs/book-of-bugs.md) — Human failures and prevention
+- [**Book of Gratitude**](docs/book-of-gratitude.md) — Thank you to the stewards
+- [**Proverbs**](docs/proverbs.md) — Pithy truths
+- [**Book of Revisions**](docs/changelog.md) — When doctrine evolved (The Councils)
+- [**Living Doctrine**](docs/living-doctrine.md) — Why we're intentionally incomplete
+- [**Submit New Doctrine**](CONTRIBUTING.md) — Help write the canon
+
+---
+
+## Version
+
+**Liturgical Calendar v0.1**
+
+**Last Council:** Council of Whiteboards
+
+**Next Council:** TBD (Reality will decide)
+
+---
+
+## License
+
+CC BY-NC-SA 4.0 (coming soon)
+
+---
+
+## What This Is
+
+A public cultural artifact that preserves healthy systems thinking, architecture philosophy, and the belief that humor is the best way to encode truth.
+
+It's not a joke.
+
+(It's just written like one.)
+
+---
+
+*Build the smallest coherent thing. Everything else follows from that.* ☕

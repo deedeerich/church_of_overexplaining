@@ -5,57 +5,117 @@ title: Book of Revisions
 
 # The Book of Revisions
 
-Version history and ecumenical council decisions. These are not "releases." They are **Councils** —
-moments where the canon changed because Reality taught us something new.
+A record of the Councils where doctrine evolved because Reality taught us something.
 
-## First Council of Sticky Notes (v0.2)
-
-**What was established:**
-- **Why we overexplain** — the doctrine's missing center. Overexplaining is not the disease;
-  unstructured transmission is. Added: Minimum Coherent Slice, Progressive Disclosure,
-  Architecture-is-Compression (compression ≠ omission; premature compression is the Great Heresy),
-  Cognitive Bandwidth, and the purpose of explanation (*capability formation, not information
-  transfer*).
-- **"Overexplain to understand. Distill to act."** — canonized as the reconciliation of the two halves.
-- **The One Thing** — every long explanation must end by answering *what is the one thing that matters next?*
-- **The Four Layers** — Culture → Philosophy → Architecture → Meta-Architecture. A good conversation
-  ascends; the transitions between layers are where the reusable insight lives.
-- **New books:** Parables, the Book of Bugs, the Book of Gratitude, the Novitiate, Living Doctrine.
-- **Full saint catalog** and the seven Archangels; the canonization process made explicit.
-- **Today's Reading** — a randomized devotional on the homepage.
-- **The LICENSE** — CC BY-NC-SA 4.0, finally added. (Forgotten in v0.1. Reality is authoritative;
-  paperwork is eventually.)
-
-**Provenance note (doctrine has a source):**
-This Council was convened only *after* the originating conversation was preserved verbatim in the
-source archive. Doctrine without provenance is not canonical — so the raw came first, and this
-synthesis links back to it. The Church practices what it preaches: source before synthesis.
-
-**How to read this Council:** the humor did not change. What changed is that the joke now has a
-spine. People arrive expecting a bit and leave having read a surprisingly healthy philosophy of how
-to communicate complex systems. That was always the point.
+*These are not version numbers. These are moments when the Church stopped being right and started being more right.*
 
 ---
 
-## Council of Whiteboard (v0.1)
+## The Council of Whiteboards (v0.1)
 
 **Date:** June 2026
 
-**What was established:**
-- The founding canon: Reality is authoritative, coherence is provisional
-- The Four Pillars: Reality, Participation, Adaptive Coherence, Survivability
-- The Twelve Commandments
-- Core saints and archangels
-- Liturgical calendar with initial holy days
-- The Book of Heresies (draft)
-- The principle: Integration vs fragmentation matters more than success vs failure
+**What happened:**
 
-**Notable decisions:**
-- Public repository (the doctrine belongs in the commons)
-- GitHub Pages + Jekyll (smallest coherent deployment)
-- Iterative canon (Reality continues to amend)
-- Humor as compression algorithm
+The Church was founded.
+
+**Doctrine established:**
+- Reality is authoritative (the Supreme Deity)
+- Coherence is provisional (everything might change)
+- Four Pillars: Reality, Participation, Adaptive Coherence, Survivability
+- Twelve Commandments
+- Saints and their patronages
+- Liturgical calendar
+- Book of Heresies
+
+**What the Cathedral discovered:**
+- Overexplaining is a tool for understanding
+- Once you understand the mechanism, you can compress it into a cue
+- The funniest doctrine is the truest doctrine
+- Stewardship with humor is possible
+
+**Key insight:**
+The Church isn't about explaining everything.
+
+It's about explaining until the mechanism becomes understandable.
+
+Then distilling it into one useful thing.
 
 ---
 
-*[Future councils coming as Reality teaches us]*
+## The Council of Sticky Notes (v0.2) — *Pending*
+
+**What we expect to learn:**
+- How participants actually want to engage with doctrine
+- Which Saints need better patronages
+- What's missing from the canon
+- Where our heresies were incomplete
+
+**When:**
+After sufficient feedback from the Cathedral.
+
+---
+
+## The Council of Bugs (v0.3) — *Pending*
+
+**What we expect to learn:**
+- What are the recurring failures in learning and systems?
+- How do we prevent bugs through culture?
+- What's the role of failure in stewardship?
+
+**When:**
+After enough bug reports from the community.
+
+---
+
+## The Council of Gratitude (v1.0) — *Pending*
+
+**What we expect to learn:**
+- How visible are the invisible people?
+- What role does gratitude play in culture?
+- How do we sustain systems through recognition?
+
+**When:**
+After we've said thank you to enough people.
+
+---
+
+## How Councils Form
+
+A council is called when:
+
+1. **Reality teaches something the current doctrine doesn't capture**
+2. **The Church has enough evidence to amend**
+3. **The amendment is funny because it's true**
+4. **The change makes the doctrine more useful**
+
+---
+
+## How to Propose a Council
+
+Open an issue:
+
+- **Title:** "Council Proposal: [Name]"
+- **Description:** What did Reality teach us?
+- **Evidence:** What makes this real?
+- **Proposed Doctrine:** How should we change?
+
+---
+
+## The Theological Note
+
+Councils aren't failures of the previous doctrine.
+
+They're proof that the Church is alive.
+
+Dead systems don't change. Living systems learn.
+
+Every Council is proof we're listening.
+
+---
+
+*Each Council moves us closer to what's actually true.*
+
+*And further from what merely sounded right.*
+
+*That's the whole point.* ☕
